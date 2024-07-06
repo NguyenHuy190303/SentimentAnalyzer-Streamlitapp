@@ -16,7 +16,7 @@ This is a simple Streamlit application that analyzes the sentiment of user-input
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SentimentAnalyzerApp.git
+    git clone https://github.com/NguyenHuy190303/SentimentAnalyzer-Streamlitapp
     ```
 2. Navigate to the project directory:
     ```bash
