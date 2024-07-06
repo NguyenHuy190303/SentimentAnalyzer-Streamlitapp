@@ -32,4 +32,3 @@ This is a simple Streamlit application that analyzes the sentiment of user-input
 Run the application:
 ```bash
 streamlit run app.py
->>>>>>> a5163d5 (Initial commit)
