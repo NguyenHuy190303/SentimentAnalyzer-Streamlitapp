@@ -1,4 +1,3 @@
-=======
 # SentimentAnalyzerApp
 
 This is a simple Streamlit application that analyzes the sentiment of user-input text.
